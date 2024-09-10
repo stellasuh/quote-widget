@@ -13,7 +13,7 @@ window.onload = function() {
         {
             text: "“Reality is more cruel than our imagination. But we are stronger than the person we imagine ourselves to be.”",
             author: "The8",
-            image: "https://i.pinimg.com/564x/f5/fc/77/f5fc773f5a6ffc65f48e19ef8e6b52a8.jpg"
+            image: "https://i.pinimg.com/564x/ac/6d/98/ac6d986a4dd2fe7a70e466d0b9044242.jpg"
         },
         {
             text: "“I wanted to say that we are all doing a great job.”",
