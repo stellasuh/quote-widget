@@ -19,6 +19,11 @@ window.onload = function() {
             text: "“I wanted to say that we are all doing a great job.”",
             author: "Seungkwan",
             image: "https://i.pinimg.com/564x/cf/a2/f9/cfa2f9cf0768d8a4ac0e56ddffc65d8e.jpg"
+        },
+        {
+            text: "“It is tiring, right? Even so, you did well. I hope you will gain more strength tomorrow.”",
+            author: "Dk",
+            image: "https://i.pinimg.com/564x/2f/d3/43/2fd343dd75bbf2d4847f4d1ce5f00b07.jpg"
         }
     ];
 
