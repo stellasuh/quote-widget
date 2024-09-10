@@ -18,7 +18,7 @@ window.onload = function() {
         {
             text: "“I wanted to say that we are all doing a great job.”",
             author: "Seungkwan",
-            image: "https://i.pinimg.com/564x/23/de/3d/23de3d031b63c7684b5e7f540f9d2b27.jpg"
+            image: "https://i.pinimg.com/564x/cf/a2/f9/cfa2f9cf0768d8a4ac0e56ddffc65d8e.jpg"
         }
     ];
 
