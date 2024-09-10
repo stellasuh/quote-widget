@@ -1,0 +1,23 @@
+#quoteContainer {
+    background-color: #e66a8e;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 100%; /* Allow it to take full width */
+    height: auto; /* Make sure the container auto-adjusts height based on content */
+}
+
+#quoteImage {
+    border-radius: 5px;
+    flex-shrink: 0; /* Ensure the image stays at the size defined and doesn't shrink */
+}
+
+#quoteDisplay {
+    white-space: pre-line; /* Allows the text to break into new lines */
+}
+
+#authorDisplay {
+    text-align: right;
+    font-style: italic;
+}
