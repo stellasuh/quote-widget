@@ -13,7 +13,7 @@ window.onload = function() {
         {
             text: "“Reality is more cruel than our imagination. But we are stronger than the person we imagine ourselves to be.”",
             author: "The8",
-            image: "https://i.pinimg.com/564x/f5/fc/77/f5fc773f5a6ffc65f48e19ef8e6b52a8.jpg"
+            image: "https://i.pinimg.com/564x/90/31/33/90313320612bb6c417e601e629f6c6c9.jpg"
         },
         {
             text: "“I wanted to say that we are all doing a great job.”",
@@ -23,7 +23,7 @@ window.onload = function() {
         {
             text: "“It is tiring, right? Even so, you did well. I hope you will gain more strength tomorrow.”",
             author: "Dk",
-            image: "https://i.pinimg.com/564x/2f/d3/43/2fd343dd75bbf2d4847f4d1ce5f00b07.jpg"
+            image: "https://i.pinimg.com/564x/3a/43/94/3a4394498ca9c61e80e82babda846441.jpg"
         }
     ];
 
