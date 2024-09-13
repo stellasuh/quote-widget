@@ -59,8 +59,8 @@ window.onload = function() {
         document.getElementById('quoteContainer').style.backgroundColor = randomColor;
     }
 
-    // Change quote every 5 seconds (5000 ms)
-    setInterval(updateQuote, 5000);
+    // Change quote every 1 minute 
+    setInterval(updateQuote, 60000);
 
     // Initial quote display
     updateQuote();
