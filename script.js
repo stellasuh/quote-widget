@@ -13,18 +13,23 @@ window.onload = function() {
         {
             text: "“Reality is more cruel than our imagination. But we are stronger than the person we imagine ourselves to be.”",
             author: "The8",
-            image: "https://i.pinimg.com/564x/90/31/33/90313320612bb6c417e601e629f6c6c9.jpg"
+            image: "https://i.pinimg.com/564x/c4/da/27/c4da2759b4e40a553b798e93cf08e18b.jpg"
         },
         {
             text: "“I wanted to say that we are all doing a great job.”",
             author: "Seungkwan",
-            image: "https://i.pinimg.com/564x/cf/a2/f9/cfa2f9cf0768d8a4ac0e56ddffc65d8e.jpg"
+            image: "https://i.pinimg.com/564x/90/31/33/90313320612bb6c417e601e629f6c6c9.jpg"
         },
         {
             text: "“It is tiring, right? Even so, you did well. I hope you will gain more strength tomorrow.”",
             author: "Dk",
             image: "https://i.pinimg.com/564x/3a/43/94/3a4394498ca9c61e80e82babda846441.jpg"
-        }
+        },
+        {
+            text: "“You’ve probably heard of this... -There is no flower that blooms without being shaken-. So i hope that all of you will endure hardship and overcome difficulties to bear fruits. I don’t want you to try to live up to other people’s expectations. I want you to live by your own values and take your own small steps forward, one at a time.”",
+            author: "Hoshi",
+            image: "https://i.pinimg.com/564x/73/2e/53/732e5331c77b15470707f94967deb3d5.jpg"
+        },
     ];
 
     const colors = ["#e66a8e", "#ecadc8", "#e98dad", "#ffbdd0"];
