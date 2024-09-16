@@ -6,6 +6,17 @@
     box-sizing: border-box;
     width: 100%; /* Allow it to take full width */
     height: auto; /* Make sure the container auto-adjusts height based on content */
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center-align items horizontally */
+}
+
+.quoteContent {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    width: 100%;
+    margin-bottom: 10px; /* Space between content and audio */
 }
 
 #quoteImage {
@@ -20,4 +31,8 @@
 #authorDisplay {
     text-align: right;
     font-style: italic;
+}
+
+audio {
+    width: 100%; /* Make the audio player full width */
 }
